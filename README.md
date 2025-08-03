@@ -1,16 +1,28 @@
-## Hi there 👋
+```text
+ _   _ _____ _     _     ___  
+| | | | ____| |   | |   / _ \ 
+| |_| |  _| | |   | |  | | | |
+|  _  | |___| |___| |__| |_| |
+|_| |_|_____|_____|_____\___/
 
-<!--
-**BrijeshKC/BrijeshKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──(root💀kali)-[~]
+└─$ whoami
+Penetration Tester | Web | API | Network | Mobile
 
-Here are some ideas to get you started:
+┌──(root💀kali)-[~]
+└─$ cat certifications.txt
+- CEH v13 Master
+- eJPT v2
+- 4x SAP Hall of Fame 🏅 (Oct & Dec 2024, Jan & Feb 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──(root💀kali)-[~]
+└─$ cat tools.txt
+Burp Suite, OWASP ZAP, Metasploit, Nmap, Wireshark, Fortify
+
+┌──(root💀kali)-[~]
+└─$ cat tech_stack.txt
+Bash Scripting, Python, Basic JavaScript & SQL
+
+┌──(root💀kali)-[~]
+└─$ curl -s https://www.linkedin.com/in/brijesh-choudhury
+🔗 Let's connect on LinkedIn!
