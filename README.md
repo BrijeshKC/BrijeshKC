@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝           ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝
 
 >> whoami
-Penetration Tester | Web | API | Network | Mobile
+Penetration Tester | Web | API | Thick Client | AI Chatbots | Mobile | SAST | Network
 
 >> cat certifications.txt
 - CEH v13 Master
@@ -23,7 +23,7 @@ Penetration Tester | Web | API | Network | Mobile
   Link - https://support.sap.com/en/my-support/knowledge-base/security-notes-news/credits-for-security-researchers.html
 
 >> cat tools.txt
-Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark, Fortify
+Burp Suite, OWASP ZAP, Checkmarkx, Echo Mirage, Fiddler, Fortify, Nmap, Metasploit, Wireshark
 
 >> cat tech_stack.txt
 Bash Scripting, Python, Basic JavaScript & SQL
